@@ -6,4 +6,4 @@ Renting a bike is becoming popular day by day leading to increased revenues. Peo
 Obtained the dataset from UCI Machine Learning Repository. Performed feature selection to implement Machine Learning models and did some basic exploration of data by creating visualizations. Implemented Random Forests, Deep Neural Networks and Support Vector Regression to predicted the number of bikes that will be rented in an hour.
 
 
-Used Grid Search Cross Validation to tune hyperparameters get best possible accuracies. Achieved Root Mean Squared Error(RMSE) as low as 43 with Random Forests. Plotted variable importances to determine important features for random forests algorithm.
+Used Grid Search Cross Validation to tune hyperparameters get best possible accuracies. Reduced Root Mean Squared Error(RMSE) by 76.5% from the base model with Random Forests. Plotted variable importances to determine important features for random forests algorithm.
